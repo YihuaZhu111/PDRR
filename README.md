@@ -1,6 +1,7 @@
 # PDRR
 
 Here is the code of the Paper: **Beyond Chains: Bridging Large Language Models and Knowledge Bases in Complex Question Answering**.
+
 This paper has been accepted by **AAAI2026** Main.
 
 # First, environment
@@ -45,7 +46,7 @@ If you want to cite this paper or want to use this code, please cite the followi
 }
 ```
 
-## AAAI 2O26:
+## AAAI 2026:
 ```
 will upload soon
 ```
